@@ -105,8 +105,3 @@ form input:focus {
     background: rgb(38, 255, 0);
 }
 
-.info {
-    font-weight: bold;
-    margin-bottom: 1rem;
-    display: none;
-}
