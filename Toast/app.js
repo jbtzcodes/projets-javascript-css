@@ -3,6 +3,7 @@ const buttons = document.querySelectorAll('.buttons .button')
 
 
 const toastDetails = {
+const toastDetails = {
   timer: 5000,
   success: {
     icon: `<ion-icon name="checkmark-circle-outline"></ion-icon>`,
